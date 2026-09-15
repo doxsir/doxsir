@@ -1,31 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:96c93d&height=180&section=header&text=doxsir&fontSize=60&fontColor=ffffff&desc=breaking%20things%20responsibly&descSize=18&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4a4a4a&height=180&section=header&text=doxsir&fontSize=60&fontColor=ffffff&desc=breaking%20things%20responsibly&descSize=18&descAlignY=65" width="100%"/>
 
 <a href="https://standoff365.com/profile/poopguy/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B09B&center=true&vCenter=true&random=false&width=600&lines=Bug+bounty+hunter+in+training;C%2FC%2B%2B+%7C+C%23+%7C+Go+%7C+Python;Web+security+%2B+recon+tooling;Hack+the+planet+%F0%9F%91%BE" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=620&lines=%3E+bug+bounty+hunter+in+training;%3E+C+%2F+C%2B%2B+%2F+C%23+%2F+Go+%2F+Python;%3E+web+security+and+recon+tooling;%3E+resume%3A+see+commits" alt="typing"/>
 </a>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" alt="hacking"/>
+```
+$ whoami
+doxsir — software dev gone offensive security.
+$ cat focus.txt
+web security · recon · bug bounty · documented in public
+$ uptime
+learning since day one, no plans to stop
+```
 
 </div>
 
 ## 🎯 What's this
 
-Software dev gone offensive security. I write code since forever (C/C++ low-level, C#, Go, Python) — now I'm learning to break things instead. Documenting the whole journey in public: labs, writeups, tooling.
+Software dev background (C/C++ low-level, C#, Go, Python), now learning to break things instead of building them. Everything I learn goes here: labs, writeups, tooling.
 
 **Where I play:** [Standoff365](https://standoff365.com/profile/poopguy/) · PortSwigger Academy · TryHackMe
 
 ## 🧰 Arsenal
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-black?style=flat-square&logo=burpsuite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
 
 ## 🚀 Projects
 
@@ -37,16 +44,16 @@ Software dev gone offensive security. I write code since forever (C/C++ low-leve
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doxsir&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxsir&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=doxsir&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=doxsir&show_icons=true&theme=graywhite&hide_border=true&bg_color=000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxsir&layout=compact&theme=graywhite&hide_border=true&bg_color=000000" height="150"/>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doxsir/doxsir/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/doxsir/doxsir/output/github-contribution-grid-snake.svg" alt="snake"/>
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=doxsir&theme=graywhite&hide_border=true&background=000000" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/doxsir/doxsir/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </div>
 
 ## 📜 Rules I play by
@@ -56,8 +63,8 @@ Software dev gone offensive security. I write code since forever (C/C++ low-leve
 ---
 
 <div align="center">
-  <a href="https://standoff365.com/profile/poopguy/"><img src="https://img.shields.io/badge/Standoff365-poopguy-FF0000?style=flat-square&logo=hackthebox&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=doxsir&color=00b09b&style=flat-square&label=visitors"/>
+  <a href="https://standoff365.com/profile/poopguy/"><img src="https://img.shields.io/badge/Standoff365-poopguy-black?style=flat-square"/></a>
+  <img src="https://komarev.com/ghpvc/?username=doxsir&color=000000&style=flat-square&label=visitors"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:96c93d&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4a4a4a&height=120&section=footer" width="100%"/>
