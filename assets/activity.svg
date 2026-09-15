@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="196" viewBox="0 0 300 196">
+<rect width="300" height="196" rx="12" fill="#1c2128" stroke="#3a4149" stroke-width="1"/>
+<text x="18" y="36" font-family="Segoe UI,Helvetica,Arial" font-size="15" font-weight="700" fill="#ffffff">activity</text>
+<text x="18" y="72" font-family="Segoe UI,Helvetica,Arial" font-size="13" fill="#9ea7b3">Total contributions</text>
+<text x="282" y="72" font-family="Segoe UI,Helvetica,Arial" font-size="13" font-weight="600" fill="#ffffff" text-anchor="end">20</text>
+<text x="18" y="106" font-family="Segoe UI,Helvetica,Arial" font-size="13" fill="#9ea7b3">Total commits</text>
+<text x="282" y="106" font-family="Segoe UI,Helvetica,Arial" font-size="13" font-weight="600" fill="#ffffff" text-anchor="end">13</text>
+<text x="18" y="140" font-family="Segoe UI,Helvetica,Arial" font-size="13" fill="#9ea7b3">Public repos</text>
+<text x="282" y="140" font-family="Segoe UI,Helvetica,Arial" font-size="13" font-weight="600" fill="#ffffff" text-anchor="end">3</text>
+<text x="18" y="174" font-family="Segoe UI,Helvetica,Arial" font-size="13" fill="#9ea7b3">Focus</text>
+<text x="282" y="174" font-family="Segoe UI,Helvetica,Arial" font-size="13" font-weight="600" fill="#ffffff" text-anchor="end">web security</text>
+</svg>
