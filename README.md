@@ -44,8 +44,8 @@ Software dev background (C/C++ low-level, C#, Go, Python), now learning to break
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=doxsir&show_icons=true&theme=graywhite&hide_border=true&bg_color=000000" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=doxsir&layout=compact&theme=graywhite&hide_border=true&bg_color=000000" height="150"/>
+  <img src="assets/stats.svg" height="170"/>
+  <img src="assets/langs.svg" height="170"/>
 </div>
 
 <div align="center">
