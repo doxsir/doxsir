@@ -44,16 +44,12 @@ Software dev background (C/C++ low-level, C#, Go, Python), now learning to break
 ## 📊 Stats
 
 <div align="center">
-  <img src="assets/stats.svg" height="170"/>
-  <img src="assets/langs.svg" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=doxsir&theme=graywhite&hide_border=true&background=000000" height="150"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/doxsir/doxsir/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+  <img src="assets/stats.svg" height="180"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/langs.svg" height="180"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=doxsir&theme=graywhite&hide_border=true&background=000000" height="160"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/doxsir/doxsir/output/github-contribution-grid-snake-dark.svg" width="700" alt="contribution snake"/>
 </div>
 
 ## 📜 Rules I play by
