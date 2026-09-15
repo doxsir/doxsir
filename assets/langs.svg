@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="196" viewBox="0 0 340 196">
+<rect width="340" height="196" rx="10" fill="#000000" stroke="#333" stroke-width="1"/>
+<text x="20" y="36" font-family="Segoe UI,Helvetica,Arial" font-size="16" font-weight="700" fill="#ffffff">stack</text>
+<text x="20" y="72" font-family="Segoe UI,Helvetica,Arial" font-size="14" fill="#bbbbbb">C / C++</text>
+<text x="320" y="72" font-family="Segoe UI,Helvetica,Arial" font-size="14" font-weight="600" fill="#ffffff" text-anchor="end">low-level</text>
+<text x="20" y="106" font-family="Segoe UI,Helvetica,Arial" font-size="14" fill="#bbbbbb">C#</text>
+<text x="320" y="106" font-family="Segoe UI,Helvetica,Arial" font-size="14" font-weight="600" fill="#ffffff" text-anchor="end">.net</text>
+<text x="20" y="140" font-family="Segoe UI,Helvetica,Arial" font-size="14" fill="#bbbbbb">Go</text>
+<text x="320" y="140" font-family="Segoe UI,Helvetica,Arial" font-size="14" font-weight="600" fill="#ffffff" text-anchor="end">tooling</text>
+<text x="20" y="174" font-family="Segoe UI,Helvetica,Arial" font-size="14" fill="#bbbbbb">Python</text>
+<text x="320" y="174" font-family="Segoe UI,Helvetica,Arial" font-size="14" font-weight="600" fill="#ffffff" text-anchor="end">security scripts</text>
+</svg>
