@@ -44,8 +44,8 @@ Software dev background (C/C++ low-level, C#, Go, Python), now learning to break
 ## 📊 Stats
 
 <div align="center">
-  <img src="assets/stats.svg" height="180"/>&nbsp;&nbsp;&nbsp;
-  <img src="assets/langs.svg" height="180"/>
+  <img src="assets/activity.svg" width="300"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/stackcard.svg" width="300"/>
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=doxsir&theme=graywhite&hide_border=true&background=1c2128" height="160"/>
   <br/><br/>
