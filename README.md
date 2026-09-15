@@ -47,7 +47,7 @@ Software dev background (C/C++ low-level, C#, Go, Python), now learning to break
   <img src="assets/activity.svg" width="300"/>&nbsp;&nbsp;&nbsp;
   <img src="assets/stackcard.svg" width="300"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=doxsir&theme=graywhite&hide_border=true&background=1c2128" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=doxsir&hide_border=true&background=1c2128&border=3a4149&stroke=3a4149&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=9ea7b3&sideNums=ffffff&dates=8b949e" width="640"/>
   <br/><br/>
   <img src="https://raw.githubusercontent.com/doxsir/doxsir/output/github-contribution-grid-snake-dark.svg" width="700" alt="contribution snake"/>
 </div>
