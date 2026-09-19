@@ -38,9 +38,10 @@ Software dev background (C/C++ low-level, C#, Go, Python), now learning to break
 
 | | |
 |---|---|
-| **[peep](https://github.com/doxsir/peep)** | PE file parser in plain C++17: DOS/COFF/optional headers, sections, imports. CI on every push |
-| **[cvedigest](https://github.com/doxsir/cvedigest)** | Fresh CVE digest from GitHub Advisory DB in your terminal, with CISA KEV cross-check |
+| **[peep](https://github.com/doxsir/peep)** | PE file parser in plain C++17: DOS/COFF/optional headers, sections + entropy, imports, exports, overlays. CI on every push |
+| **[cvedigest](https://github.com/doxsir/cvedigest)** | Fresh CVE digest from GitHub Advisory DB in your terminal, with CISA KEV cross-check, caching and JSON output |
 | **[web-recon-toolkit](https://github.com/doxsir/web-recon-toolkit)** | Passive subdomain enumeration via CT logs. What I actually run during recon |
+| **[zcode-skills](https://github.com/doxsir/zcode-skills)** | Small skills for ZCode/Claude Code: CVSS scoring, bug bounty report triage |
 | **[labs-writeups](https://github.com/doxsir/labs-writeups)** | Lab & CTF writeups + CVE breakdowns — root cause first, payload second |
 
 ## 📊 Stats
